@@ -4,7 +4,7 @@ a simple xor encoder/decoder for your shellcode -- found online // modified some
 # USAGE:
 * 1st get ur shellcode and paste it in `encoder.py`
 * then run encoder.py using `python2`
-* copy the output and paste it in deccoder.asm
+* copy the output and paste it in decoder.asm
 * run `./builder.sh`
 * ur done !!!!
 
